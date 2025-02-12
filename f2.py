@@ -1,1 +1,1 @@
-print("2.dosya")
+print("2.dosya değişti")
